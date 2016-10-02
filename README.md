@@ -19,7 +19,10 @@
 
 ### How to set up the Insights for Twitter BlueMix Service
 
-
+### Output
+<p align="center">
+  <img src="img/output.png"/ width=1000%>
+</p>
 
 ### Requirements
 * PySpark in Modeler set up
