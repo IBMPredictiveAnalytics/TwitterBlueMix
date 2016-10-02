@@ -21,7 +21,12 @@
 
 ### Output
 <p align="center">
-  <img src="img/output.png"/ width=1000%>
+  <img src="img/output.png"/ width=100%>
+</p>
+
+### UI
+<p align="center">
+  <img src="img/ui.png"/ width=70%>
 </p>
 
 ### Requirements
