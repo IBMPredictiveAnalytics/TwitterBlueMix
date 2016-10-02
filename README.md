@@ -26,7 +26,7 @@
 
 ### UI
 <p align="center">
-  <img src="img/ui.png"/ width=70%>
+  <img src="img/UI.png"/ width=70%>
 </p>
 
 ### Requirements
