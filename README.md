@@ -48,7 +48,7 @@ The output is always a list of Tweets with the following information:
   "country",
   "city",
   "state"`    
-  
+
   Some of the fields like `gender` or the geo locations are only filled if known.    
   The `sentimentPolarity` field is provided and pre-scored for you by Twitter. Feel free to compare it with your own sentiment analysis (e.g. I've seen it doesn't recognize doubled negations such as 'not good').    
   The `body` field contains the Tweet itself.
@@ -69,3 +69,6 @@ In SPSS Modeler Click on '**Extensions**' --> '**Extensions Hub...**', search, '
 ### Packages used
 pandas: https://pypi.python.org/pypi/pandas  
 numpy: https://pypi.python.org/pypi/numpy
+
+### Authors
+Jonathan Langefeld - IBM
