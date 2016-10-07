@@ -24,7 +24,7 @@ With this extension for IBM SPSS Modeler you are able to receive Twitter Decahos
 The user interface gives you the ability to automatically generate straightforward queries.    
 You always need to paste your BlueMix Insights for Twitter service URL. Depending on how much Tweets you want to receive, enter a number in the respective field. Type 0 if you want to receive all Tweets available via the Twitter Decahose.
 The other three boxes give you the option to select specific search terms, specific authors, and/or specific date ranges.
-If you need more advanced queries than provided via the UI, just only check '**Create Custom Query**' and post a more complex query string matching the correct pattern explained here: http://ibm.biz/TwitterQuery.
+If you need more advanced queries than provided via the UI, just only check '**Create Custom Query**' and post a more complex query string, matching the correct pattern explained here: http://ibm.biz/TwitterQuery.
 <p align="center">
   <img src="img/UI.png"/ width=70%>
 </p>
